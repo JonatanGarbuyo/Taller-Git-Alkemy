@@ -1,2 +1,2 @@
-let name= 'soy Gaby Mangoni';
+let name= 'Soy Gaby Mangoni';
 
